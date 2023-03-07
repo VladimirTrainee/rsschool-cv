@@ -33,7 +33,7 @@ I want to check myself in learning and using different new approaches to underst
   **Coins LTD** _(15+ years as Full Stack Progress 4GL developer)_
 # Education
 - Vitebsk State University named after P.M. Masherov _(the Faculty of Applied Mathematics and Information Technologies)_
-- Sololearn app_(SQL, Javascript, React + Redux)_
+- Sololearn app _(SQL, Javascript, React + Redux)_
 # English
 - **University** 
 - **Coins LTD**_(communicate with client and collegues)_
