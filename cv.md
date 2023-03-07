@@ -38,4 +38,4 @@ I want to check myself in learning and using different new approaches to underst
 - **University** 
 - **Coins LTD**_(communicate with client and collegues)_
 - **Travell**_(communicate with people)_
-- **EPAM English test result**___(C1)___
+- **EPAM English test result(C1)**
