@@ -1,6 +1,6 @@
 ## [rsschool-cv](https://vladimirtrainee.github.io/rsschool-cv/cv)
 
-# Vladimir Kirpichyov
+# ![Vladimir Kirpichyov](https://cdn.rs.school/avatars/vladimirtrainee.png?size=192) Vladimir Kirpichyov
 
 # Contacts
 
@@ -47,7 +47,7 @@ function getMinBase (number) {
   **Coins LTD** _(15+ years as Full Stack Progress 4GL developer)_
 # Education
 - Vitebsk State University named after P.M. Masherov _(the Faculty of Applied Mathematics and Information Technologies)_
-- Sololearn app _(SQL, Javascript, React + Redux)_
+- Sololearn app _([SQL](https://www.sololearn.com/certificates/CT-Z22ZFW3O), [Javascript](https://www.sololearn.com/certificates/CT-4EWFULBU), [React + Redux](https://www.sololearn.com/certificates/CT-BG7IAUBS))_
 # English
 - **University** 
 - **Coins LTD**_(communicate with client and collegues)_
