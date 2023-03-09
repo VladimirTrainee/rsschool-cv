@@ -50,6 +50,6 @@ function getMinBase (number) {
 - Sololearn app _([SQL](https://www.sololearn.com/certificates/CT-Z22ZFW3O), [Javascript](https://www.sololearn.com/certificates/CT-4EWFULBU), [React + Redux](https://www.sololearn.com/certificates/CT-BG7IAUBS))_
 # English
 - **University** 
-- **Coins LTD**_(communicate with client and collegues)_
-- **Travell**_(communicate with people)_
+- **Coins LTD**_(communication with client and collegues)_
+- **Travell**_(communication with people)_
 - **EPAM English test result(C1)**
