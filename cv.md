@@ -28,7 +28,21 @@ I want to check myself in learning and using different new approaches to underst
 - Web services
 
 # Code examples
+**Lowest base system** _Your task is determine the lowest number base system in which the input n ( base 10 ), expressed in this number base system, is all 1s in its digits._
+```
+function getMinBase (number) {
 
+  for (let i = 54; i > 1; i--){
+    let val = number;
+    let base = Math.trunc((number - 1) ** ( 1 / (i - 1)))  
+
+    while ( val % base === 1) val = Math.trunc(val / base) ; 
+    if (val === 0) return base;
+  }
+    
+  return 0;
+}
+```
 # Work Experience
   **Coins LTD** _(15+ years as Full Stack Progress 4GL developer)_
 # Education
